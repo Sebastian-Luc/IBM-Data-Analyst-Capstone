@@ -5,9 +5,11 @@ This is the Capstone Project for Course 9, _IBM Data Analyst Capstone Project_. 
 
 ### Task 1
 
-Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to 
+Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv, excel sheets, and databases.
 
 ### Task 2
+
+Once we
 
 ### Task 3
 
