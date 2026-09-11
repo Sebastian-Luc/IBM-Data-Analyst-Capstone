@@ -9,13 +9,19 @@ Our first task is to collect data for the technology skills that are most in dem
 
 ### Task 2
 
-Once we
+Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values.
 
 ### Task 3
 
+Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers.
+
 ### Task 4
 
+In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into Dataframes.
+
 ### Task 5
+
+For task 5, we will employ 
 
 ### Task 6
 
