@@ -21,11 +21,18 @@ In the fourth task, we'll focus on choosing appropriate visualizations based on 
 
 ### Task 5
 
-For task 5, we will employ 
+For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
 ### Task 6
 
+For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
+
 ## Data Description
+
+Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses. 
+The dataset we are going to use comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a ODbL: Open Database License. We will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present our analysis.
+Note: This randomized subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
+
 
 ## Tools
 - Python:
