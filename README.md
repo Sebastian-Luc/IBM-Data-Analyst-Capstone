@@ -13,11 +13,13 @@ The project involved data collection, data wrangling and cleaning, exploratory d
 
 Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv, excel sheets, and databases.
 
-The first task of this project focuses on building a comprehensive dataset of the 
+In the first task of this project focuses on building a comprehensive dataset of the most in-demand technology skills across the industry. Data is collected from multiple sources including job postings, technology blogs, and developer surveys using web scraping techniques and APIs. The project integrates data from a variety of formats, including CSV files, Excel spreadsheets, and databases, creating a unified foundation for downstream data cleaning, analysis and visualization. 
 
 ### Task 2
 
 Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values.
+
+In the second task of this project, following data collection, the datasets are transformed and prepared for analysis through a structured data-wrangling and preprocessing workflow. This includes identifying and removing duplicate records, detecting and evaluating missing values, and applying appropriate imputation techniques to address incomplete data. 
 
 ### Task 3
 
