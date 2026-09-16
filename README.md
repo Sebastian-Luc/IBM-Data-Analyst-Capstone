@@ -25,13 +25,19 @@ In the second task of this project, following data collection, the datasets are 
 
 Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers.
 
+With the data cleaned and prepared, the next phase applies statistical analysis and exploratory data analysis (EDA) to uncover meaningful patterns, trends, and relationships within the dataset. The analysis examines key aspects of the technology landscape, including the most in-demand programming languages, database technologies, and development environments (IDEs). It also explores developer demographics, such as age and gender distributions, to provide additional context around the workforce represented in the data. These findings help transform raw datasets into actionable insights that can inform technology trends and workforce skill requirements. 
+
 ### Task 4
 
 In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into Dataframes.
 
+In the fourth phase, SQL queries are used to extract and aggregate relevant data from a database, which is then loaded into Python DataFrames for analysis. Appropriate charts, plots, and histograms are created to visualize key trends, distributions, and relationships, transforming analytical results into clear, data-driven insights.
+
 ### Task 5
 
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
+
+In the fifth phase, IBM Cognos Google Looker Studio are  used to develop interactive dashboards that 
 
 ### Task 6
 
