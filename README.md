@@ -37,17 +37,21 @@ In the fourth phase, SQL queries are used to extract and aggregate relevant data
 
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
-In the fifth phase, IBM Cognos Google Looker Studio are  used to develop interactive dashboards that 
+In the fifth phase, IBM Cognos Google Looker Studio are  used to develop interactive dashboards that enable dynamic data exploration and communicate key findings through intuitive, stakeholder-focused visualizations.
 
 ### Task 6
 
 For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
+
+in the final phase, data storytelling are used to translate analytical findings into a clear, compelling narrative. Key insights and trends are presented in a structured format to communicate results effectively and support data-driven decision-making.
 
 ## Data Description
 
 Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses. 
 The dataset we are going to use comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a ODbL: Open Database License. We will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present our analysis.
 Note: This randomized subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
+
+This project uses data from Stack Overflow's 2019 Developer Survey, a global survey of software professionals that collected approximately 90,000 responses. The dataset was open-sourced by Stack Overflow under the 
 
 
 ## Tools
