@@ -51,8 +51,13 @@ Stack Overflow, a popular website for developers, conducted an online survey of 
 The dataset we are going to use comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a ODbL: Open Database License. We will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present our analysis.
 Note: This randomized subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
 
-This project uses data from Stack Overflow's 2019 Developer Survey, a global survey of software professionals that collected approximately 90,000 responses. The dataset was open-sourced by Stack Overflow under the 
+This project uses data from Stack Overflow's 2019 Developer Survey, a global survey of software professionals that collected approximately 90,000 responses. The dataset was open-sourced by Stack Overflow under the Odbl (Open Database License).
 
+For this capstone, we work with a randomized subset containing approximately 10% of the original dataset. The data is explored, cleaned, analyzed, and visualized to identify trends in developer technologies, skills and demographics.
+
+Dataset Source: [`Stack Overflow 2019 Developer Survey Results`](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)
+
+Dataset Limitation: Because this project uses a randomized subset of the full survey data, findings may not represent the broader developer population or real-world technology trends. 
 
 ## Tools
 - Python:
