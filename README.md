@@ -1,25 +1,20 @@
 # IBM-Data-Analyst-Capstone
 Capstone project for IBM's Data Analyst Professional Course with Coursera
 # Data Visualization with Python
-This is the Capstone Project for Course 9, _IBM Data Analyst Capstone Project_. Part of IBM's Data Analyst Professional Certificate from Coursera. We will take on the role of a Data Analyst with a global IT and Business services firm. In this role, we will be analyzing several datasets to help identify trends for emerging technologies. We have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and reman competitive, our organization regularly analyzes data to help identify future skill requirements. As a Data Analyst, we will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
 
-Completed as the final project of IBM's Data Analyst Professional Certificate on Coursera, this project simulates a real-world data analytics engagement for a global IT and business consulting services firm.
-
-As a Data Analyst, I analyzed data from multiple sources to identify emerging technology trends, in-demand technical skills, and evolving workforce requirements. The analysis was designed to help the organization better understand changes in the technology landscape and make data-driven decisions regarding future skill development and hiring needs.
-
-The project involved data collection, data wrangling and cleaning, exploratory data analysis, statistical analysis, data visualization, and insight generation. By transforming raw datasets into actionable insights, the project demonstrates how data analytics can support strategic workforce planning and help organizations remain competitive in a rapidly evolving technology industry.
+Completed as the final project of IBM's Data Analyst Professional Certificate on Coursera, this project simulates a real-world analytics engagement for a global IT and business consulting firm. As a Data Analyst, I analyzed data from multiple sources to identify emerging technology tends, in-demand technical skills, and evolving workforce needs. The project involved data collection, data cleaning, exploratory and statistical analysis, visualization, and insight generation to support data-driven workforce planning, hiring, and future skill development. 
 
 ### Task 1
 
-Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv, excel sheets, and databases.
-
-In the first task of this project focuses on building a comprehensive dataset of the most in-demand technology skills across the industry. Data is collected from multiple sources including job postings, technology blogs, and developer surveys using web scraping techniques and APIs. The project integrates data from a variety of formats, including CSV files, Excel spreadsheets, and databases, creating a unified foundation for downstream data cleaning, analysis and visualization. 
+The first task focuses on collecting data on in-demand technology skills from job postings, blogs, and developer surveys using web scraping and APIs. Data from CSV files, Excel spreadsheets, and databases is integrated into a unified dataset for analysis and visualization. 
 
 ### Task 2
 
 Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values.
 
 In the second task of this project, following data collection, the datasets are transformed and prepared for analysis through a structured data-wrangling and preprocessing workflow. This includes identifying and removing duplicate records, detecting and evaluating missing values, and applying appropriate imputation techniques to address incomplete data. 
+
+The second task focuses on preparing the collected data for analysis through data wrangling, including removing duplicates, identifying missing values, and applying appropriate imputation techniques. 
 
 ### Task 3
 
