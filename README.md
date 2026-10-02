@@ -34,10 +34,10 @@ This project uses Stack Overflow's 2019 Developer Survey, which collected approx
 
 Dataset Source: [`Stack Overflow 2019 Developer Survey Results`](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)
 
-Dataset Limitation: Because this project uses a randomized subset of the full survey data, findings may not represent the broader developer population or real-world technology trends. 
+Dataset Limitations: Findings from the randomized subset may not fully represent the broader developer population or real-world technology trends.
 
 ## Tools
-- Python:
+- Python: Primary language for project
 - Pandas: for data management
 - Numpy: for mathematical operations
 - seaborn: for data visualization
